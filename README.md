@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola! Soy Jonás 👋
+
+Soy una persona creativa que le gusta colaborar y aportar a su entorno, prefiero el trabajo colectivo al individual.
+
+Actualmente me encuentro aprendiendo de forma autodidacta en diferentes plataformas como Youtube, Udemy, MDN, FreeCodeCamp y compartiendo mi tiempo con las comunidades de Coderhood, JonMircha y FrontEndCafe, donde he conectado con profesionales en el área del desarrollo que me han sabido transmitir toda su pasión y conocimiento.
 
 <!--
 **JonasBorgesArg/JonasBorgesArg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
